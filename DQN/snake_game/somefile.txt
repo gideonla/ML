@@ -1,0 +1,2 @@
+episode: 0/1001, time: 36, e: 1.0
+episode: 1/1001, time: 41, e: 0.99

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/gideon/LEG/snake_nn-master/snake_nn.tflearn"
+all_model_checkpoint_paths: "/home/gideon/LEG/snake_nn-master/snake_nn.tflearn"
